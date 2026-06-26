@@ -1,0 +1,10 @@
+{
+  "name": "plantoos",
+  "description": "An AI-powered application to help detect plant diseases using advanced foliar neural networks and expert pathology reports.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
